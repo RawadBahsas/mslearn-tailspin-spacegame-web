@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 pool: Default
 steps:
 - bash: echo hello world
+=======
+pool: MyAgentPool
+steps:
+- bash: echo hello world
+>>>>>>> 0b5a74e2eabb2fef5cec90f6b3dad9b8e843693d
